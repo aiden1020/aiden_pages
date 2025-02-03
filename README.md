@@ -5,7 +5,7 @@
 - Tailwind CSS v4.0
 
 ## Demo
-- [Demo links](https://aiden1020.github.io/aiden_pages/)
+- [Demo links](https://aiden1020.github.io/aiden-pages/)
 ### Desktop mode
 <img src="demo_video/desktop_mode_demo.gif">
 
