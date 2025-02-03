@@ -13,7 +13,7 @@ function Contact() {
                         src={civitaiIcon} 
                         draggable="false"
                         alt="civitai icon"
-                        className="w-25 h-25 invert transition-transform duration-300 hover:scale-120 hover:drop-shadow-[0px_0px_10px_rgb(31,133,244)]"
+                        className="w-25 h-25 invert transition-transform duration-300 drop-shadow-[0px_0px_10px_rgb(31,133,244)] sm:drop-shadow-none sm:hover:drop-shadow-[0px_0px_10px_rgb(31,133,244)] hover:scale-120"
                     />
                 </a>
                 <a href="https://github.com/aiden1020" target="_blank" rel="noreferrer">
@@ -21,7 +21,7 @@ function Contact() {
                         src={githubIcon} 
                         draggable="false"
                         alt="github icon"
-                        className="w-25 h-25 invert transition-transform duration-300 hover:scale-120 hover:drop-shadow-[0px_0px_10px_gray]"
+                        className="w-25 h-25 invert transition-transform duration-300 drop-shadow-[0px_0px_10px_gray] sm:drop-shadow-none hover:scale-120 hover:drop-shadow-[0px_0px_10px_gray]"
                     />
                 </a>
             </div>
@@ -31,7 +31,7 @@ function Contact() {
                         src={emailIcon} 
                         draggable="false"
                         alt="email icon"
-                        className="w-25 h-25 invert transition-transform duration-300 hover:scale-120 hover:drop-shadow-[0px_0px_10px_rgb(217,77,63)]"
+                        className="w-25 h-25 invert transition-transform duration-300 drop-shadow-[0px_0px_10px_rgb(217,77,63)] hover:scale-120 sm:drop-shadow-none hover:drop-shadow-[0px_0px_10px_rgb(217,77,63)]"
                     />
                 </a>
                 <a href="https://www.instagram.com/tszto.wong/" target="_blank" rel="noreferrer">
@@ -39,7 +39,7 @@ function Contact() {
                         src={instagramIcon} 
                         draggable="false"
                         alt="instagram icon"
-                        className="w-25 h-25 invert transition-transform duration-300 hover:scale-120 hover:drop-shadow-[0px_0px_10px_rgb(251,3,216)]"
+                        className="w-25 h-25 invert transition-transform duration-300 drop-shadow-[0px_0px_10px_rgb(251,3,216)] sm:drop-shadow-none hover:scale-120 hover:drop-shadow-[0px_0px_10px_rgb(251,3,216)]"
                     />
                 </a>
                 <a href="https://x.com/Aiden06042893" target="_blank" rel="noreferrer">
@@ -47,7 +47,7 @@ function Contact() {
                         src={twitterIcon} 
                         draggable="false"
                         alt="twitter icon"
-                        className="w-25 h-25 invert transition-transform duration-300 hover:scale-120 hover:drop-shadow-[0px_0px_10px_rgb(59,207,254)]"
+                        className="w-25 h-25 invert transition-transform duration-300 drop-shadow-[0px_0px_10px_rgb(59,207,254)] sm:drop-shadow-none hover:scale-120 hover:drop-shadow-[0px_0px_10px_rgb(59,207,254)]"
                     />
                 </a>
             </div>
