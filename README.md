@@ -1,8 +1,12 @@
-# React + Vite
+## 😆 Personal Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Techs
+- Vite React.js
+- Tailwind CSS v4.0
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
+- [Demo links](https://aiden1020.github.io/aiden_pages/)
+- Desktop mode
+![alt text](demo_video/desktop_mode_demo-1.gif)
+- Phone mode
+<img src="demo_video/phone_mode_demo.gif" height=500>
