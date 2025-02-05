@@ -6,7 +6,7 @@ import twitterIcon from '../assets/twitter-icon.svg'
 function Contact() {
     return (
         <div className='h-screen bg-black'>
-            <div id="contact" className="text-3xl sm:text-5xl font-bold  flex justify-center py-25 ">Contact me</div>
+            <div id="contact" className="font-sikscreen text-3xl sm:text-5xl  flex justify-center py-25 ">Contact me</div>
             <div className='flex space-x-20 sm:space-x-50 p-5 sm:p-10 justify-center'>
                 <a href="https://civitai.com/user/Aiden1020" target="_blank" rel="noreferrer">
                     <img

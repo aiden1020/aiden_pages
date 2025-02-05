@@ -1,5 +1,12 @@
 @import "tailwindcss";
+.silkscreen-regular {
+  font-family: "Silkscreen", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 @theme {
+    --font-sikscreen: "Silkscreen", "serif";
     --animate-fade: fade 1.5s ease-in-out;
     @keyframes fade {
         0% {
